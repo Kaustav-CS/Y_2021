@@ -4,7 +4,6 @@ def code():
 
     n,s = map(int, input().split())
     #print("\t\t",n,s)
-    #s = int(input())
     if(n%2 == 1):
         k = (n//2) +1
     else:
