@@ -24,4 +24,4 @@ for num in reversed(range(lower, upper + 1)):
         print(num, file = fh)
 time.sleep(10)
 print("\t\t Task End")
-quit()
+#quit()
