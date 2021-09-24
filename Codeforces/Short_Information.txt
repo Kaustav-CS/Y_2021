@@ -1,0 +1,10 @@
+Solution of Codeforces 
+Codes in Python3
+
+
+=====
+Input
+=====
+Output
+=====
+Reference  link 
