@@ -27,6 +27,5 @@ func mySqrt(x int) int {
        
     }
     
-    
     return c
 }
